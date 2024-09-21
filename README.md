@@ -1,7 +1,5 @@
 # Hotel-Reservation-System
 
-How about building a **Hotel Reservation System**? This project will challenge you with various advanced Java concepts and provide a comprehensive learning experience. Here's a brief overview:
-
 ### Hotel Reservation System
 
 #### Project Overview:
@@ -34,5 +32,4 @@ A Hotel Reservation System allows users to book rooms, manage reservations, and 
 ##### yet to be build!!
 ##### stay tuned!!
 
-Now i'm back!
 
